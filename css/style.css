@@ -335,3 +335,31 @@
 .test-next:hover{
     background-color: #ae9cffbd;
 }
+
+/* books */
+.books{
+    width: 70vw;
+    margin: auto;
+    margin-top: 100px;
+}
+.book-item{
+    display: flex;
+    border-radius: 20px;
+}
+.book-item:hover{
+    background-color: #ccc;
+    cursor: pointer;
+}
+.bookImg{
+    width: 12%;
+    margin: 20px;
+}
+
+.bookName{
+    font-size: 20px;
+    font-weight: 600;
+}
+.bookAuthor{
+    font-style: italic;
+    margin: 10px 0;
+}

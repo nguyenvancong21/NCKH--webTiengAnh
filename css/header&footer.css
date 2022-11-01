@@ -56,11 +56,12 @@ table tr th:hover{
     line-height: 70px;
     justify-content: space-around;
 }
+
 .header-item {
     margin: 15px;
     font-size: 18px;
     font-weight: 500;
-    width: 11vw;
+    /* width: 11vw; */
 }
 
 .header-item:hover{
@@ -69,8 +70,8 @@ table tr th:hover{
 .user{
     position: relative;
     font-size: 32px;
-    color: #fff;
-    margin: 13px 106px 0 87px;
+    color: #fff;    
+    margin: 13px 69px 0 0px;
     cursor: pointer;
 }
 
